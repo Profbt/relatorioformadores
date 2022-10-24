@@ -4,7 +4,9 @@ nav li {
     text-decoration: none;
     text-transform: uppercase;
     font-size: 35px;
-    margin-left: 5em;
+    margin: 0, 25px, 0, 15px;
+    padding: 30px;
+    padding-right: 0%;
 }
 
 
