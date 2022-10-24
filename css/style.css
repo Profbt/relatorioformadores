@@ -4,11 +4,10 @@
     text-decoration: none;
     text-transform: uppercase;
     font-size: 35px;
+    margin-left: 10em;
 }
 
-.paginas {
-    padding: 30px;
-}
+
 #banner {
     width: 100%;
 }
