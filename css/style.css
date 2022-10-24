@@ -1,27 +1,5 @@
-
-#logo {
-    width: 100%;
-}
-.caixa {
-    display: inline;
-    position: flex;
-    width: 940px;
-    margin: 0 auto;
-}
-
-nav li {
-    display:inline;
-    text-decoration: none;
-    text-transform: uppercase;
-    font-size: 35px;
-    margin: 0, 25px, 0, 15px;
-    padding: 30px;
-    padding-right: 0%;
-}
-
-
 #banner {
-    width: 15%;
+    width: 100%;
 }
 
 body {
