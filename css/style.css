@@ -3,7 +3,8 @@
     width: 100%;
 }
 .caixa {
-    position: relative;
+    display: inline;
+    position: flex;
     width: 940px;
     margin: 0 auto;
 }
