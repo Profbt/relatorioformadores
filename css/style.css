@@ -4,6 +4,13 @@ li {
     text-transform: uppercase;
 }
 
+.paginas {
+    display: inline-block;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 35px;
+}
+
 #banner {
     width: 100%;
 }
